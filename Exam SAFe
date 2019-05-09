@@ -1,0 +1,322 @@
+Actual Exam 96%
+
+A Team has just adopted the SAFe Imlementation Roadmap and is in the process of training executives, managers, and leader. What is their next step?
+	Create the Implementation Plan
+X	Identify Value Streams and Agile Release Trains
+	Train Lean-Agile Change Agents
+	Extend to the Portfolio
+
+
+What is the difference between a PI Roadmap and a Solution Roadmap?
+	They are different names for the same thing
+X	A PI Roadmap is for the nearer term planning and Solution Roadmap is for longer term planning
+	A PI Roadmap is a SAFe term and a Solution Roadmap is not
+	A Solution Roadmap is for a nearer term planning and a PI Roadmap is for longer  term planning
+	
+	
+What are stretch objectives?
+X	Objectives that are planned in the capacity but not commited
+	Objectives that are commited for the PI
+	Objectives that are not planned n the capacity but will be pulled if there is time later in the PI 
+	Objectives that do not require business value assignment by Business Owners
+	
+	
+At the end of PI Planning after dependencies are resolved and risks are addressed, a confidence vote is taken. What is the default method used to vote?
+	Planning Poker
+	Thumbs up or down
+	Majority Boting 
+X	Fist of Five
+
+
+Who facilitates Soution Train Events?
+	Agile PMO
+	Solution Management
+	Release Train Engineer
+X	Solution Train Engineer
+
+
+What are the top two reasons for adopting Agile in an organization? (Choose two)
+X	Enable changing priorities
+	Reduce Changes
+X	Accelerate product delivery
+	Centralize decision making
+	Reduce project cost
+	
+
+What statement is true about Lean Portfolio Management (LPM) and budgeting?
+	LPM cannot make any budget changes to the Portfolio
+	LPM budgets projects and not value streams
+X	LPM empowers stakeholders to adapt the current backlog and roadmap context 
+	LPM can change allocations to value streams only every two years
+
+
+What is part of the role of the Scrum Master?
+	To priortize the Team Backlog
+	To facilitate Scrum of Scrums
+	To write User Stories
+X	To coach the Agile Team
+
+
+What is one key pupose of DevOps?
+	DevOps joins development and operations to enable continous delivery
+	DevOps focuses on automating the delivery pipeline to reduce transaction cost
+	DevOps focuses on a set of practices applied to large systems
+X	DevOps enables continous release by building a scalable Continuos Delivery Pipeline
+
+
+Which two types of decisions should remain centralized even in a decentralized decision-making environment? (Choose two)
+	Time critical Decisions
+X	Decisions with significant economies of scale
+	Decisions that require local information
+X	Infrequent decisions
+	Frequent Decisions
+
+	
+Which SAFe Principle includes providing autonomy with purpose, mission, and minimum constraints?
+X	Unlock the intrinsic motivation of knowledge workers
+	Build projects around motivated individuals
+	Take an economic view
+	Base milestones on an objective evaluation of working systems
+	
+	
+If small batches go through the system faster with lower variability, then which statement is true about batch size?
+	Good infrastructure enagles large batches
+	Batch sizes cannot influence behavior 
+X	Severe project slippage is the most likely result of large batches
+	Low utilzation increases variability
+	
+	
+
+Which statement is a principle from the Agile Manifesto?
+	Limit work in process
+	Respect for people and culture
+	Build incrementally with fast, integrated learning cycles
+X	Working software is the primary measure of progress
+
+
+What is the best measure of progress for complex system development?
+	Inspect and Adapt
+X	System Demo
+	Prioritized Backlog
+	Iteration Review
+	
+
+Which role serves as the Servant Leader for the Agile Release Train?
+	System Team
+	Product Management
+X	Release Train Engineer
+	System Architect
+	
+	
+Who is responsible for managing the Portfolio Kanban?
+X	Epic Owners
+	System Team
+	Lean Portfolio Management
+	Solution Management
+	
+When are planning adjustments communicated back to the Agile Release Train after the management review?
+	At the end of day one
+	During the draft plan review
+	During breakout sessions
+X	At the beginning of day two
+	
+	
+
+What is the primary focus of Lean Portfolio Management?
+	Remove Program impediments
+	Lead Solution management
+X	Align Lean-Agile development with business strategy
+	Hold PI Planning 
+	
+
+Stategic Themes are different business objectives which help guide Solutions. Where are Stategic Themes found in the SAFe Big Picture?
+X	Portfolio Level
+	Large Solution Level
+	Team Level
+	Program Level
+	
+	
+Which of the core competencies of the Lean enterprise helps align strategy and execution?
+X	Lean Portfolio Management
+	DevOps and Release on Demand
+	Business Solutions and Lean Systems Engineering
+	Team and Technical Agility
+	
+	
+Which two are part of the Scaled Agile Framework Core Values? (Choose two)
+	Decentalize decision-making
+	Systems Thinking
+X	Built-In Quality
+	Collaboration
+X	Alignment
+
+
+When should new approaches be anchored in an organization's culture?
+	Culture should not be changed because SAFe respecs current culture
+X	Culture change comes last as a results of changing work habits
+	When starting a SAFe implementation
+	Right after a seense of urgency is created in the organization
+	
+
+Why is it important to decouple deployment from release?
+X	To enable releasing upon demand
+	To deploy only on a cadence
+	To enable deploying upon demand 
+	To releaseonly on a cadence
+	
+
+The analyzing step of the Portfolio Kanban system has a new Epic witha completed Lean business case. What best describes the next step for the Epic?
+	It will be implemented if it has the highest Weighted Shortest Job First Ranking
+	It will be implemented once the Lean Business case is approved by the Epic Owner
+	It will remain in the analyzingstep until one or more Agile Release Trains have the capacity to implement it
+X	It will be moved to the Portfolio Backlogif it receives a "Go" decision from Lean Portfolio Management
+
+
+Why do Business Owners assign business value to Teams' PI Objectives?
+	To ensure the teams do not work on architectural enablers
+	To determine the highest value using WSJF
+X	To provide the teams with guidance of value to the business
+	To override the decisions made in WSJF priortization 
+	
+
+What are two items that appear on the program board? (Choose two)
+X	Features
+	Stories
+	Risks
+	Epics
+X	Significant dependencies
+
+
+What is one guardrail on Lean budget spend?
+X	Capacity allocations
+	Centralized decision making
+	Customer partipation in PI Planning
+	Lean Portfolio metrics 
+	
+	
+What is this statment defining: "A series of activities that have proven to be effective in successfully implementing SAFe"
+	The Scaled Agile Framework
+X	The SAFe Imlementation Roadmap
+	The SAFe Lean-Agile Principles
+	An Agile Release Train
+	
+	
+What does the Continous Delivery Pipeline enable?
+X	Continous learning cycles
+	Increased technical debt
+	Continous refactoring
+	Ongoing development of Team objectives
+	
+
+What is an attribute of an application built with DevOps in mind?
+	It ensures continous integration with manual deployment
+X	It overlays measurments with events (deployments, releases)
+	It has a long manual testing processes
+	It includes mainly legacy code 
+
+	
+Optimizing flow means identifying what?
+	Activites that lack innovation
+	Delays
+X	Key Performance Indicators
+	Predictability Issues of the train 
+	
+
+SAFe's first Lean-Agile Principle includes "Deliver early and often" and what else?
+	Apply cadence 
+	Apply systes thinking
+X	Deliver value incrementally
+	Decentalize decision-making
+	
+
+Weighted Shortest Job First gives preference to jobs with which two characteristics? (Choose two)
+X	Shorter Duration
+X	Higer Cost of Delay
+	Longer duration
+	Fixed date
+	Revenue impact
+	
+	
+What is an example of applying cadence and synchronization in SAFe?
+	Allocating budgets to Agile Release Trains
+	Creating cross-functional teams
+X	Conducting a PI Planning Meeting
+	Using a Portfolio Kanban System
+	
+	
+During the final plan review, Program risks are adressed using ROAM. What do the letters in ROAM represent?
+	Relegated, Owned, Approved, Managed
+	Managed, Resolved, Ordered, Accepted
+X	Owned, Mitigated, Resolved, Accepted
+	Accepted, Redesigned, Ordered, Mitigated
+	
+
+During which event are the Team PI Objectives agreed upon?
+	Pre-PI Planning
+	Backlog Refinement
+	Iteration Planning
+X	PI Planning
+
+
+How can trust be gained between the business and development?
+	Automate the delivery pipeline
+	Maintain iterations as a safe zone for the teams
+X	Deliver predictability 
+	Release new value to production every day
+	 
+	
+Which statement is true about Program events?
+	The Inspect and Adapt is the only Program event to create a closed loop system
+	The Daily Stand-up is a Program event that requires the Scrum of Scrums and Program Owner Sync involvement in the closed loop system
+X	Team events run inside the Program events, and the Program events create a closed loop system
+	Program events run inside the Team events, and the team events create a closed loop system
+	
+
+What is another name for technical or functional spikes needed to uncover knowledge or reduce risk in the next PI?
+	Epic
+	Architectural enablers
+X	Exploration enablers
+	Capability
+	
+
+Which statment is a value from the Agile Manifesto?
+	Working software over following a plan
+	Workng software over processes and tools 
+X	Working software over comprehensive documentation
+	Working software over contract negotiations
+
+	
+What is the roof of the SAFe House of Lean?
+	Innovation
+	Lean-Agile Leadership
+X	Value
+	Relentless Improvement
+	
+
+What are two ways to describe a cross-functional Agile team? (Choose two)
+X	They are optimized for communication and delivery of value
+	They are made up of members, each of whom can define, develop, test, and deploy the system
+	They release customer products to production continously
+X	They can define, build, and test a feature or component
+	They deliver value every six weeks 
+
+	
+If a program repeatedly shows seperate features branches rather than a true System Demo, Which practice should be reviewed to address the issue?
+	Roadmap Creation
+	Scrum of Scrums
+X	Continous Integration
+	Test First 
+	
+
+What is the meaning of shift left?
+X	Using test-first methods
+	Putting WIP limits on the exploration (left) part of the Portfolio Kanban
+	Exploring customer's needs before committing to work during PI planning
+	Moving operations to sit on the train
+	
+
+What is one pillar of the SAFe House of Lean?
+	Leadership
+	Continous Delivery
+X	Flow
+	Value 
